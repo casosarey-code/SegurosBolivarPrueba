@@ -1,0 +1,35 @@
+﻿# Maven
+target/
+!.mvn/wrapper/maven-wrapper.jar
+
+# IDE
+.idea/
+.vscode/
+*.iml
+*.class
+
+# Binarios que NO deben subirse
+*.jar
+*.msi
+*.exe
+!mvnw.cmd
+
+# Logs
+*.log
+error*.log
+
+# Comprimidos
+*.zip
+*.tar.gz
+*.rar
+*.7z
+
+# OS
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Temporales
+*.tmp
+*.bak
+*.swp
